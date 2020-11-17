@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "388492299586",
+    "firebase_url": "https://mate-64510.firebaseio.com",
+    "project_id": "mate-64510",
+    "storage_bucket": "mate-64510.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388492299586:android:2d23f036ab18bb6408ccdb",
+        "android_client_info": {
+          "package_name": "com.pandeyhitesh.mate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388492299586-gp5u7noc3r6k0c990uepbhrhj1oshn1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDThZF37SaCdmiYqGCbgcVA_QlU0HBJdnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388492299586-gp5u7noc3r6k0c990uepbhrhj1oshn1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
